@@ -31,7 +31,7 @@ Supports:
 
 ## Tools & Language
 - **Language:** Verilog HDL
-- 
+  
 ## Notes
 - This is a **single-cycle** design: each instruction completes in one clock cycle.
 - Modules are designed to be integrated into a full processor datapath.
